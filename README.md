@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Ricardo.</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working at Kellogg as a Software Architech / Full Stack Developer
+- 🔭 I’m currently working at Kellogg as a Software Architect / Full Stack Developer
 - 🌱 I’m currently learning Vue and an Ux enthusiast
 - ⚡ Fun fact: I ate spiders as a kid... saddly no super powers
 
