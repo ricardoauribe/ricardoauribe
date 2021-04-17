@@ -17,6 +17,7 @@
 &nbsp; <a href="https://twitter.com/ricardouribe" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
 &nbsp; <a href="https://www.linkedin.com/in/ricardouribeleal" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ricardoauribe@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://github.com/ricardoauribe" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" width="36" /></a>
 </p>
 <a href="https://github.com/ricardoauribe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoauribe&include_all_commits=true&count_private=true&theme=buefy&show_icons=true" />
