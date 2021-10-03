@@ -2,7 +2,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working at Kellogg as a Software Architect / Full Stack Developer
-- 🌱 I’m currently learning React and an Ux enthusiast
+- 🌱 I’m currently learning React and an I'm a Ux enthusiast
 - ⚡ Fun fact: I ate spiders as a kid... saddly no super powers
 
 <h3>🛠 Tech Stack</h3>
