@@ -2,12 +2,12 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working at Kellogg as a Software Architect / Full Stack Developer
-- 🌱 I’m currently learning Vue and an Ux enthusiast
+- 🌱 I’m currently learning React and an Ux enthusiast
 - ⚡ Fun fact: I ate spiders as a kid... saddly no super powers
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | JavaScript | Python | C++  
+- 💻 &nbsp; Java (Spring) | JavaScript (Angular & VueJs) | Python | C++  
 - 🌐 &nbsp; AWS | Azure | CloudFoundry 
 - 🖥 &nbsp; Sketch | InVision | ProtoPie
 
